@@ -23,8 +23,8 @@ from time import strftime
 service = ChromeService(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
-username = 'for_testing_opp'
-password = 'asddsa123'
+username = 'for_testing_opp' # you have to change it
+password = 'XXXXX' # you have to change it
 
 # Define XPaths
 username_xpath = '/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div[2]/form/div/div[1]/div/label/input'
