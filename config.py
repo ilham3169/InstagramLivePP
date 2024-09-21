@@ -1,4 +1,3 @@
-# Import necessary modules
 import PIL.Image
 from PIL import Image
 from PIL import ImageFont
