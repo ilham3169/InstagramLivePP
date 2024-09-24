@@ -13,8 +13,8 @@ This script automates the process of updating the profile picture on Instagram a
 
 1. Clone the repository:
     ```bash
-    git clone <your-github-repo-link>
-    cd <your-repo-directory>
+    git clone https://github.com/ilham3169/InstagramLivePP
+    cd InstagramLivePP
     ```
 
 2. Install the required packages:
@@ -41,7 +41,7 @@ This script automates the process of updating the profile picture on Instagram a
 
 3. Run the script:
     ```bash
-    python script.py
+    python main.py
     ```
 
 ## Script Workflow
@@ -71,6 +71,4 @@ This script automates the process of updating the profile picture on Instagram a
 3. **Missing `arialbd.ttf` font?**
    Download the font or change the path in the script to point to a valid font file.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
