@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[https://github.com/JohnnyDeuss/minesweeper-solver/blob/master/examples/example.gif](https://imgvisuals.com/cdn/shop/products/animated-clock-white-line-ui-icon-230673.gif?v=1697071104)" alt="logo">
+</p>
+
+
 # Instagram Profile Picture Updater
 
 This script automates the process of updating the profile picture on Instagram at the start of every minute. It logs into your Instagram account, generates a new profile picture with the current date and time, and then uploads it automatically.
